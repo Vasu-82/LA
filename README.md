@@ -30,4 +30,4 @@ echo {file1,file2,file3}.txt
 
 # Generate sequences
 echo {A..C}1
-![Lab2 Screenshot](Lab1/image2.png)
+![Lab2 Screenshot](Lab2/image2.png)
